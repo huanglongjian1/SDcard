@@ -41,6 +41,8 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public void init() {
+
+
         hasSDTextView = (TextView) findViewById(R.id.hasSDTextView);
         SDPathTextView = (TextView) findViewById(R.id.SDPathTextView);
         FILESpathTextView = (TextView) findViewById(R.id.FILESpathTextView);
